@@ -5,3 +5,5 @@ by: Denisse Regina García Rivera
 
 
 `N²`
+`n²`
+
